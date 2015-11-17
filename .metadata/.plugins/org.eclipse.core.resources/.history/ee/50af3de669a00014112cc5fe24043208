@@ -1,0 +1,27 @@
+package p0120;
+
+import java.util.ArrayList;
+
+public class p0120 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.gc();
+		System.out.println("Memory"+Runtime.getRuntime().freeMemory());
+		System.out.println("Creating hpuse..");
+		ArrayList<House> area=new ArrayList<House>();
+		for(int i=0;i<10;i++){
+			area.add(new House());
+			
+		}
+		System.out.println("Memory"+Runtime.getRuntime().freeMemory());
+		System.out.println("Collecting g");
+		System.gc();
+		System.out.println("Memory"+Runtime.getRuntime().freeMemory());
+		
+	}
+
+}
+class House{
+	
+}

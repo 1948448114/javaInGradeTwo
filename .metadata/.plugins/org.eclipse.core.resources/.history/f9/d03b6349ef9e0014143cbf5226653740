@@ -1,0 +1,24 @@
+package test;
+
+public class test {
+	static long x;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		long a=16l;
+//		int x=10;
+//		System.out.println(x);
+//		System.out.println(a);
+//		int z=0x1A;
+//		System.out.println(z);
+//		char x='Äã';
+//		System.out.println(x);
+//		int a=2147483647;
+//		long b=((long)a)*4;
+//		System.out.println(b);
+//		boolean c=true;
+//		System.out.println(c);
+		int e=79;
+		System.out.println(~e);
+	}
+
+}

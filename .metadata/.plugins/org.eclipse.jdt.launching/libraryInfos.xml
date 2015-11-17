@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="E:\javac" version="1.7.0_40">
+<bootpath>
+<entry path="E:\javac\lib\resources.jar"/>
+<entry path="E:\javac\lib\rt.jar"/>
+<entry path="E:\javac\lib\sunrsasign.jar"/>
+<entry path="E:\javac\lib\jsse.jar"/>
+<entry path="E:\javac\lib\jce.jar"/>
+<entry path="E:\javac\lib\charsets.jar"/>
+<entry path="E:\javac\lib\jfr.jar"/>
+<entry path="E:\javac\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\javac\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\javac\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
